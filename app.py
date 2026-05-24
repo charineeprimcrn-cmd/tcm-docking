@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import glob
+import shutil
 import subprocess
 import streamlit.components.v1 as components
 
@@ -49,7 +50,7 @@ def extract_affinity(file):
 
 
 # =====================================================
-# AUTO GRID
+# AUTO GRID DATABASE
 # =====================================================
 
 protein_grids = {
@@ -118,7 +119,10 @@ def show_3d():
 
         o.addRepresentation(
             "cartoon",
-            {{color:"skyblue"}}
+            {{
+                color:"skyblue",
+                sele:"protein"
+            }}
         );
 
         o.autoView();
@@ -170,6 +174,12 @@ with col1:
     protein_files = sorted(
         glob.glob(f"{protein_folder}/*.pdb")
     )
+
+    # filter only clean pdb
+    protein_files = [
+        f for f in protein_files
+        if "_clean.pdb" in f
+    ]
 
     if len(protein_files) == 0:
 
@@ -395,25 +405,28 @@ with col2:
             st.stop()
 
         # =============================================
-        # PREPARE PROTEIN
+        # FAST PROTEIN LOAD
         # =============================================
 
-        st.info("Preparing protein...")
+        st.info("Loading protein...")
 
-        out, err = run_command(
-            "obabel work/protein.pdb "
-            "-O work/protein.pdbqt -xr"
+        protein_pdbqt = protein_path.replace(
+            ".pdb",
+            ".pdbqt"
         )
 
-        if not os.path.exists(
-            "work/protein.pdbqt"
-        ):
+        if not os.path.exists(protein_pdbqt):
 
-            st.error("Protein conversion failed")
-
-            st.text(err)
+            st.error(
+                f"PDBQT not found: {protein_pdbqt}"
+            )
 
             st.stop()
+
+        shutil.copy(
+            protein_pdbqt,
+            "work/protein.pdbqt"
+        )
 
         # =============================================
         # AUTO GRID
@@ -464,6 +477,8 @@ with col2:
              --size_x {sx} \
              --size_y {sy} \
              --size_z {sz} \
+             --cpu 1 \
+             --exhaustiveness 4 \
              --out work/result.pdbqt
         """
 
@@ -524,7 +539,9 @@ with col2:
 
         st.subheader("🧬 3D Visualization")
 
-        show_3d()
+        if st.button("Show 3D Structure"):
+
+            show_3d()
 
         # =============================================
         # LOG
@@ -535,3 +552,5 @@ with col2:
             st.text(out)
 
             st.text(err)
+
+        
