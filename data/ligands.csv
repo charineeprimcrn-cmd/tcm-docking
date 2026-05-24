@@ -1,0 +1,486 @@
+﻿herb_en,herb_cn,pinyin,property,compound,"target (Protein,Enzyme,receptor)",pchembl,pubchem_cid,smiles,MW,LogP,TPSA,HBA,HBD,DL TCMSP
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,GABA-A receptor; anion channel,4.11,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,150,11,6,0.11
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,Wogonin,GABA-A receptor; anion channel,5.69,5281703,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,Wogonin,RAW264.7,5.97,5281703,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,scutellarin,5-hydroxytryptamine receptor 7,4.2,5281697,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,70,12,6,0.09
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,scutellarin,Neuraminidase,4.3,5281697,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,70,12,6,0.09
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,scutellarin,Neuraminidase,4.33,5281697,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O)O,286.24,0,70,12,6,0.09
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,scutellarin,Neuraminidase,4.22,5281697,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O)O,286.24,0,70,12,6,0.09
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,SGC-7901,5.24,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,HT-29,5.51,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,liquiritigenin,Aromatase,5.68,114829,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,256.25,2,74,4,2,0.3
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,liquiritigenin,Xanthine dehydrogenase/oxidase,4.95,114829,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,256.25,2,74,4,2,0.3
+Panax ginseng,人参,Ren Shen,Warm,ginsenoside Rb1,AMPK alpha2/beta1/gamma1,7.78,9898279,CC(=CCC[C@@](C)([C@H]1CC[C@@]2([C@@H]1[C@@H](C[C@H]3[C@]2(CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)C)O)C)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)O)O)O)C,1109.3,0,300,19,9,0.04
+Coptis chinensis,黄连,Huang Lian,Cold,berberine,Menin/Histone-lysine N-methyltransferase MLL,4.4,2353,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,336.367,3.0963,40.8,4,0,0.78
+Coptis chinensis,黄连,Huang Lian,Cold,berberine,Survival motor neuron protein,5.15,2353,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,336.367,3.0963,40.8,4,0,0.78
+Coptis chinensis,黄连,Huang Lian,Cold,berberine,Thyrotropin receptor,4.9,2353,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,336.367,3.0963,40.8,4,0,0.78
+Coptis chinensis,黄连,Huang Lian,Cold,berberine,Microtubule-associated protein tau,4.9,2353,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,336.367,3.0963,40.8,4,0,0.78
+Coptis chinensis,黄连,Huang Lian,Cold,berberine,Hypoxia-inducible factor 1-alpha,5.6,2353,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC5=C(C=C4CC3)OCO5)OC,336.367,3.0963,40.8,4,0,0.78
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Hypoxia-inducible factor 1-alpha,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.41,2,47,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Hypoxia-inducible factor 1-alpha,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.41,2,47,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Fructose-bisphosphate aldolase,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.41,2,47,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Cytochrome P450 2D6,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.41,2,47,4,0,0.65
+Lonicera japonica,金银花,Jin Yin Hua,Cold,quercetin,Aldo-keto reductase family 1 member B1,4.48,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.238,1.988,131.36,7,5,0.28
+Lonicera japonica,金银花,Jin Yin Hua,Cold,quercetin,Aldo-keto reductase family 1 member B1,4.99,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.238,1.988,131.36,7,5,0.28
+Lonicera japonica,金银花,Jin Yin Hua,Cold,quercetin,Aldo-keto reductase family 1 member B1,5.08,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.238,1.988,131.36,7,5,0.28
+Lonicera japonica,金银花,Jin Yin Hua,Cold,quercetin,Aldo-keto reductase family 1 member B1,5.11,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.238,1.988,131.36,7,5,0.28
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Cytochrome P450 2C9,5.22,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,ATP-dependent translocase ABCB1,5.17,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Human immunodeficiency virus type 1 integrase,4.01,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Camellia sinensis,绿茶,Lu Cha,Cold,kaempferol,Cytochrome P450 2C9,5.22,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Camellia sinensis,绿茶,Lu Cha,Cold,kaempferol,ATP-dependent translocase ABCB1,5.17,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Camellia sinensis,绿茶,Lu Cha,Cold,kaempferol,Human immunodeficiency virus type 1 integrase,4.01,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,GABA-A receptor; anion channel,6.11,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,Beta-glucuronidase,5.55,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,GABA-A receptor; anion channel,5.52,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,Adenosine receptor A1,5.52,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,Rattus norvegicus,5.47,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,Adenosine receptor A2a,5.12,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,Mus musculus,4.97,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,Estrogen receptor,4.85,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,Lysozyme C,4.75,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Matricaria chamomilla,洋甘菊,Yang Gan Ju,Cold,apigenin,MCF 7.00,4.02,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,270.24,2.7,,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,Arachidonate 12-lipoxygenase,7.82,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,Polyunsaturated fatty acid lipoxygenase ALOX15B,6.58,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,Human immunodeficiency virus type 1 integrase,5.92,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,Human immunodeficiency virus type 1 integrase,5.37,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,GABA-A receptor; anion channel,5.25,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,Polyunsaturated fatty acid 5-lipoxygenase,5,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,KB 3-1,4.39,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,Cyclooxygenase,4.3,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,KB,4.21,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalein,KB 3-1,4.06,5281606,C1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O,270.24,2,90,5,3,0.21
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,Unchecked,7.19,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,Lysine-specific histone demethylase 1A,5.45,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,Chikungunya virus,5.16,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,ATP-binding cassette sub-family C member 2,5.1,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,Prolyl endopeptidase,4.92,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,Prolyl endopeptidase,4.91,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,Cyclin-dependent kinase 1/cyclin B1,4.84,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,Cytochrome P450 1A2,4.59,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,H9,4.14,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,baicalin,GABA-A receptor; anion channel,4.11,64982,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,446.36,1,>150,11,6,0.1
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,HT-1080,6.05,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,HT-1080,5.75,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,HL-60,5.47,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,HT-1080,5.07,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,HeLa,4.79,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,3-hydroxyacyl-CoA dehydrogenase type-2,4.4,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,Lysine-specific demethylase 4E,4.4,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica dahurica,白芷,Bai Zhi,warm,bergapten,Potassium voltage-gated channel subfamily A member 2,4.39,4113,COC1=C2C=CC(=O)OC2=CC3=C1C=CO3,216.19,2,50,4,0,0.33
+Angelica sinensis,当归,Dang gui,warm,butylidenephthalide,"Oligo-1,6-glucosidase IMA1",5.31,5353036,CCC/C=C/1\C2=CC=CC=C2C(=O)O1,166.22,2,30,2,0,0.5
+Angelica sinensis,当归,Dang gui,warm,butylidenephthalide,Alpha-mannosidase,5.31,5353036,CCC/C=C/1\C2=CC=CC=C2C(=O)O1,166.22,2,30,2,0,0.5
+Angelica sinensis,当归,Dang gui,warm,butylidenephthalide,Tissue alpha-L-fucosidase,5.31,5352899,CCC/C=C/1\C2=CC=CC=C2C(=O)O1,188.22,2,30,2,0,0.5
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,Radical scavenging activity,5.55,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,Radical scavenging activity,5.54,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,Seed linoleate 13S-lipoxygenase-1,5.52,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,5-lipoxygenase,5.52,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,Unchecked,5.48,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,Polyunsaturated fatty acid 5-lipoxygenase,5.54,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,Radical scavenging activity,5.52,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,caffeic acid,Polyunsaturated fatty acid 5-lipoxygenase,5.52,689043,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,180.16,1,77,4,3,0.14
+Lonicera japonica,金银花,Jin Yin Hua,cold,chlorogenic acid,Histone deacetylase,6.87,1794427,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,0,>160,9,6,0.09
+Lonicera japonica,金银花,Jin Yin Hua,cold,chlorogenic acid,Mus musculus,6.7,1794427,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,0,>161,9,6,0.09
+Lonicera japonica,金银花,Jin Yin Hua,cold,chlorogenic acid,Human immunodeficiency virus type 1 integrase,4.5,1794427,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,0,>163,9,6,0.09
+Lonicera japonica,金银花,Jin Yin Hua,cold,chlorogenic acid,Radical scavenging activity,4.4,1794427,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,0,>164,9,6,0.09
+Lonicera japonica,金银花,Jin Yin Hua,cold,chlorogenic acid,Human immunodeficiency virus type 1 integrase,4.34,1794427,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,0,>165,9,6,0.09
+Lonicera japonica,金银花,Jin Yin Hua,cold,chlorogenic acid,Human immunodeficiency virus type 1 integrase,4.24,1794427,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,0,>166,9,6,0.09
+Lonicera japonica,金银花,Jin Yin Hua,cold,chlorogenic acid,Human immunodeficiency virus type 1 integrase,4.06,1794427,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,354.31,0,>167,9,6,0.09
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,GABA-A receptor; anion channel,6.04,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,Monoamine oxidase,5.8,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,GABA-A receptor; anion channel,5.52,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,HT-29,5.51,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,Cyclin-dependent kinase 5/CDK5 activator 1,5.51,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,SGC-7901,5.24,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,Cyclin-dependent kinase 6,5.22,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,Cyclin-dependent kinase 1/cyclin B,5.15,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,ADMET,4.88,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,chrysin,Lactoylglutathione lyase,4.08,5281607,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,254.24,2.7,,4,2,0.23
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",5.87,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",5.8,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,NON-PROTEIN TARGET,5.16,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,NON-PROTEIN TARGET,5.12,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,AGS,4.99,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,Plasmodium falciparum,4.9,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,AGS,4.87,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,Leishmania major,4.74,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,ADMET,4.64,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,cryptotanshinone,PBMC,4.43,160254,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,296.36,4,50,3,1,0.4
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Amyloid-beta precursor protein,9.68,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,LNCaP,5.42,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,PC-3,5.11,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Prostaglandin G/H synthase 2,4.96,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Plasmodium falciparum,4.64,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Plasmodium falciparum,4.61,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Plasmodium falciparum,4.56,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Human immunodeficiency virus type 1 integrase,4.52,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Human immunodeficiency virus type 1 integrase,4.52,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Curcuma longa,姜黄,Jiang Huang,Warm,curcumin,Human immunodeficiency virus type 1 integrase,4.24,969516,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O,368.38,3,90,6,2,0.3
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",5.69,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",5.64,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,HepG2,5.6,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,Hep 3B2,5.5,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,HepG2,5.33,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,ADMET,5.19,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,Tyrosyl-DNA phosphodiesterase 1,5,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,Menin/Histone-lysine N-methyltransferase MLL,4.75,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,dihydrotanshinone I,AGS,4.32,1149175,C[C@H]1COC2=C1C(=O)C(=O)C3=C2C=CC4=C(C=CC=C43)C,381.4,4,45,3,0,0.4
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Cytochrome P450 1B1,7.8,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Cytochrome P450 1B1,7.54,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Cytochrome P450 1A1,7.05,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Cytochrome P450 1A1,6.85,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Neutrophil,6.16,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Cytochrome P450 1A2,5.61,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Monocyte,5.52,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Multidrug resistance-associated protein 1,5.52,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Unchecked,5.12,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Dracocephalum moldavica,香蜂草),Xiang Feng Cao,cold,diosmetin,Neutrophil,4.99,5281612,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,300.26,2,100,6,3,0.27
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,Transient receptor potential cation channel subfamily V member 1,7,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,Transient receptor potential cation channel subfamily V member 1,6.75,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,Transient receptor potential cation channel subfamily V member 1,6.48,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,ADMET,6.47,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,Transient receptor potential cation channel subfamily V member 1,6.22,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,Transient receptor potential cation channel subfamily V member 1,6.07,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,A549,6.01,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,NON-PROTEIN TARGET,5.94,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,NON-PROTEIN TARGET,5.91,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,evodiamine,Cholinesterase,5.33,442088,CN1[C@@H]2C3=C(CCN2C(=O)C4=CC=CC=C41)C5=CC=CC=C5N3,303.36,3,50,3,1,0.6
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,"Carbonic anhydrase 5A, mitochondrial",5.15,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,Carbonic anhydrase 7,5.13,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,Carbonic anhydrase 6,5.07,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,Carbonic anhydrase 14,5.03,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,Carbonic anhydrase 12,5.01,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,Carbonic anhydrase 9,5.01,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,"Carbonic anhydrase 5B, mitochondrial",4.98,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,Carbonic anhydrase 4,4.97,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Angelica sinensis,当归,Dang gui,warm,ferulic acid,Carbonic anhydrase 13,4.91,445858,COC1=C(C=CC(=C1)/C=C/C(=O)O)O,194.18,1,66,4,2,0.15
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Rattus norvegicus,6.7,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Glycogen synthase kinase-3,6.38,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Cyclin-dependent kinase 5/CDK5 activator 1,6.24,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Cyclin-dependent kinase 1/cyclin B,6.1,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Cyclin-dependent kinase 6,6.07,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Enoyl-acyl-carrier protein reductase,6,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Fatty acid synthase,5.7,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Human immunodeficiency virus type 1 integrase,5.07,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Lactoylglutathione lyase,4.88,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Rhus chinensis,五倍子,Wu Bei Zi,cold,fisetin,Human immunodeficiency virus type 1 integrase,4.55,5281614,C1=CC(=C(C=C1C2=C(C(=O)C3=C(O2)C=C(C=C3)O)O)O)O,286.24,2,110,6,4,0.25
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,Adenosine receptor A1,6.06,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,Adenosine A2 receptor,6.01,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,Adenosine receptor A2a,6.01,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,Adenosine receptor A3,5.5,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,ATP-dependent translocase ABCB1,5.23,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,Adenosine receptor A2a,4.78,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,Adenosine receptor A2a,4.74,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Alpinia officunarum,高良姜,Gao Liang Jiang,warm,galangin,Adenosine receptor A2a,4.48,5281616,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,270.24,2,90,5,3,0.24
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,NON-PROTEIN TARGET,6.28,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,Radical scavenging activity,5.38,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,Radical scavenging activity,5.22,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,Radical scavenging activity,5.14,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,P-selectin,4.72,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,L-selectin,4.56,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,Autoinducer 2-binding periplasmic protein LuxP,4.3,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,L1210,4.3,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,Mus musculus,4.2,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Rhus chinensis,五倍子,Wu Bei Zi,cold,gallic acid,Squalene monooxygenase,4.14,370,C1=C(C=C(C(=C1O)O)O)C(=O)O,170.12,0.5,97,5,4,0.05
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Tyrosinase,7.05,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Mushroom tyrosinase,7,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Unchecked,5.22,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Transthyretin,5.19,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Cytochrome P450 3A4,5.16,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Tyrosine-protein phosphatase non-receptor type 1,4.34,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Tyrosine-protein phosphatase non-receptor type 1,4.32,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glabridin,Tyrosine-protein phosphatase non-receptor type 1,4.13,124052,CC1(C=CC2=C(O1)C=CC3=C2OC[C@H](C3)C4=C(C=C(C=C4)O)O)C,324.37,3,70,4,2,0.47
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,TERT-RPE1,4.2,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,CT26,4.15,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,MCF 7.00,4.12,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,HCT-116,4.12,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,HT-29,4.11,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,HCT-8,4.08,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,MDA-MB-231,4.07,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,PC-3,4.05,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhetinic acid,4T1,4.02,14193987,CC(CC(=O)/C=C(\\C)/[C@H]1C[C@@H]([C@@]2([C@@]1(CC(=O)C3=C2[C@H](C[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)O)C)C)O)C(=O)O,514.6,5,70,4,2,0.6
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhizin,11-beta-hydroxysteroid dehydrogenase type 2,9.15,14982,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O,822.94,0,>200,>15,>8,0.1
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhizin,11-beta-hydroxysteroid dehydrogenase type 2,9,14982,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O,822.94,0,>200,>15,>8,1.1
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhizin,11-beta-hydroxysteroid dehydrogenase 1,8.1,14982,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O,822.94,0,>200,>15,>8,2.1
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhizin,11-beta-hydroxysteroid dehydrogenase 1,8,14982,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O,822.94,0,>200,>15,>8,3.1
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,glycyrrhizin,11-beta-hydroxysteroid dehydrogenase 1,8,14982,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O[C@@H]6[C@@H]([C@H]([C@@H]([C@H](O6)C(=O)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)C(=O)O)O)O)O)C)(C)C(=O)O,822.94,0,>200,>15,>8,4.1
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Cytochrome P450 1B1,6.29,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Monocyte,5.68,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Thyrotropin receptor,5.6,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Cytochrome P450 1A1,5.55,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Cytochrome P450 2C19,5.3,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Ras-related protein Rab-9A,5.2,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Nuclear receptor ROR-gamma,5.2,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,hesperetin,Cytochrome P450 2C19,5.1,72281,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,302.28,2,100,6,3,0.27
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,Prostaglandin G/H synthase 1,5.75,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,Prostaglandin G/H synthase 2,5.68,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,Human immunodeficiency virus 1,5.48,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,Polyunsaturated fatty acid 5-lipoxygenase,5.38,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,SARS-CoV,5.19,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,CCRF-CEM,4.96,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,ADMET,4.79,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,HepG2,4.78,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Magnolia officinalis,厚朴,Hou Po,Warm,honokiol,Vero,4.65,72303,C=CCC1=CC(=C(C=C1)O)C2=CC(=C(C=C2)O)CC=C,266.33,4,40,2,2,0.5
+Angelica dahurica,白芷,Bai Zhi,warm,imperatorin,Cytochrome P450 3A4,5.3,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,imperatorin,Fructose-bisphosphate aldolase,4.8,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,imperatorin,Saccharomyces cerevisiae,4.79,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,imperatorin,Fructose-bisphosphate aldolase,4.75,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,imperatorin,Aldehyde dehydrogenase 1A1,4.55,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,imperatorin,Lysosomal alpha-glucosidase,4.55,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,imperatorin,Beta-secretase 1,4.52,10212,CC(=CCOC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,NON-PROTEIN TARGET,5.46,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,NON-PROTEIN TARGET,5.38,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,Unchecked,5.34,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,Cytochrome P450 1B1,5.22,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,NON-PROTEIN TARGET,5.04,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,Cholinesterase,4.64,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,Prelamin-A/C,4.5,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,Aldehyde dehydrogenase 1A1,4.4,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isoimperatorin,Acetylcholinesterase,4.16,68081,CC(=CCOC1=C2C=CC(=O)OC2=CC3=C1C=CO3)C,270.28,3,50,4,0,0.45
+Angelica dahurica,白芷,Bai Zhi,warm,isorhamnetin,Cytochrome P450 1A2,5.9,5281654,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,316.26,3,120,7,4,0.31
+Angelica dahurica,白芷,Bai Zhi,warm,isorhamnetin,Xanthine dehydrogenase/oxidase,5.6,5281654,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,316.26,3,120,7,4,0.31
+Angelica dahurica,白芷,Bai Zhi,warm,isorhamnetin,NON-PROTEIN TARGET,5.56,5281654,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,316.26,3,120,7,4,0.31
+Angelica dahurica,白芷,Bai Zhi,warm,isorhamnetin,Monocyte,5.42,5281654,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,316.26,3,120,7,4,0.31
+Angelica dahurica,白芷,Bai Zhi,warm,isorhamnetin,Enoyl-acyl-carrier protein reductase,5.3,5281654,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,316.26,3,120,7,4,0.31
+Angelica dahurica,白芷,Bai Zhi,warm,isorhamnetin,3-oxoacyl-acyl-carrier protein reductase,5.08,5281654,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,316.26,3,120,7,4,0.31
+Angelica dahurica,白芷,Bai Zhi,warm,isorhamnetin,Plasmodium falciparum,4.83,5281654,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,316.26,3,120,7,4,0.31
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Cytochrome P450 3A4,5.68,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Survival motor neuron protein,5.5,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Unchecked,5.38,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Lysosomal alpha-glucosidase,5.15,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Prelamin-A/C,4.95,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Lysine-specific demethylase 4E,4.9,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Inositol monophosphatase 1,4.9,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Microtubule-associated protein tau,4.8,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Coptis chinensis,黄连,Huang Lian,cold,jatrorrhizine,Fructose-bisphosphate aldolase,4.7,72323,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)O)OC)OC,338.4,2,40,4,0,0.6
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Glycogen synthase kinase-3,5.46,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,3-oxoacyl-acyl-carrier protein reductase,5.4,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Cytochrome P450 2C9,5.22,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,ATP-dependent translocase ABCB1,5.17,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Cyclin-dependent kinase 6,4.66,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,ADMET,4.53,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Cyclin-dependent kinase 1/cyclin B,4.39,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Cyclin-dependent kinase 5/CDK5 activator 1,4.29,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Human immunodeficiency virus type 1 integrase,4.19,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Ginkgo biloba,银杏叶,Yin Xing Ye,Neutral,kaempferol,Human immunodeficiency virus type 1 integrase,4.01,5280863,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,111,6,4,0.24
+Angelica sinensis,当归,Dang gui,warm,ligustilide,Transient receptor potential cation channel subfamily A member 1,4.36,5318517,C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2C/C=C/3\\[C@@H](COC3=O)O)(C)CO)O,350.4,2,30,0,2,0.55
+Angelica sinensis,当归,Dang gui,warm,ligustilide,Transient receptor potential cation channel subfamily A member 1,4.36,5318517,C[C@@]12CC[C@H]([C@@]([C@H]1CCC(=C)[C@H]2C/C=C/3\\[C@@H](COC3=O)O)(C)CO)O,350.4,2,30,0,2,0.55
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,liquiritigenin,Aromatase,5.68,5280441,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,256.25,2,70,4,2,0.22
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,liquiritigenin,Xanthine dehydrogenase/oxidase,4.95,5280441,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,256.25,2,70,4,2,0.22
+Glycyrrhiza uralensis,甘草,Gan Cao,Neutral,liquiritigenin,HCT-116,4.43,5280441,C1[C@H](OC2=C(C1=O)C=CC(=C2)O)C3=CC=C(C=C3)O,256.25,2,70,4,2,0.22
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,RBL-2H3,5.43,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,Cyclin-dependent kinase 5/CDK5 activator 1,5.42,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,RBL-2H3,5.24,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,Cyclin-dependent kinase 1/cyclin B,5.21,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,Aldo-keto reductase family 1 member B1,5.02,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,ADMET,5.01,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,Unchecked,4.98,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,Human immunodeficiency virus type 1 integrase,4.6,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,Human immunodeficiency virus type 1 integrase,4.48,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Chrysanthemum morifolium,菊花,Ju Hua,cold,luteolin,Serine protease 1,4.45,5280445,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O)O,286.24,2,110,6,4,0.25
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,SARS-CoV,5.42,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,Microtubule-associated protein tau,4.65,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,Lysine-specific demethylase 4E,4.55,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,Microtubule-associated protein tau,4.55,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,HepG2,4.5,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,ADMET,4.41,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,Vero,4.3,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,Human immunodeficiency virus 1,4.16,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Magnolia officinalis,厚朴,Hou Po,Warm,magnolol,CCRF-CEM,4,72300,C=CCC1=CC(=C(C=C1)O)C2=C(C=CC(=C2)CC=C)O,266.33,4,40,2,2,0.52
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Enoyl-acyl-carrier protein reductase,6.4,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Human immunodeficiency virus type 1 integrase,6.22,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Human immunodeficiency virus type 1 integrase,5.7,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Fatty acid synthase,5.7,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Human immunodeficiency virus type 1 integrase,5.6,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,ADMET,5.55,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Human immunodeficiency virus type 1 integrase,5.12,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Serine protease 1,4.99,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,3-oxoacyl-acyl-carrier protein reductase,4.85,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Myrica rubra,杨梅,Yang Mei,Slightly Cold,myricetin,Plasmodium falciparum,4.24,5281672,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,318.24,1,150,8,6,0.2
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,Carbonyl reductase [NADPH] 1,5.46,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,Estrogen receptor beta,4.87,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,Aromatase,4.77,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,Lactoylglutathione lyase,4.76,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,Carbonyl reductase [NADPH] 1,4.67,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,Sex hormone-binding globulin,4.55,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,ATP-dependent translocase ABCB1,4.54,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus aurantium,枳实,Zhi Shi,Slightly Cold,naringenin,Estrogen receptor,4.12,439246,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,272.26,2,86,5,3,0.21
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,Monocyte,5,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,3-hydroxyacyl-CoA dehydrogenase type-2,4.7,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,Lysine-specific demethylase 4E,4.65,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,HT-29,4.62,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,Lysine-specific demethylase 4E,4.6,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,Lysine-specific demethylase 4E,4.5,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,Cruzipain,4.4,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,HL-60,4.38,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Citrus reticulata,陈皮,Chen Pi,Warm,nobiletin,3T3-L1,4.3,72344,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC)OC,402.39,4,80,8,0,0.52
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,Cyclic AMP-responsive element-binding protein 1,5.66,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,Unchecked,5.32,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,Unchecked,5.3,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,KB,4.79,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,RAW264.7,4.78,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,HepG2,4.64,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,NON-PROTEIN TARGET,4.59,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,KB,4.51,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,HCT-116,4.47,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,oroxylin A,Trypsin,4.21,5320315,COC1=C(C2=C(C=C1O)OC(=CC2=O)C3=CC=CC=C3)O,284.26,2,80,5,2,0.3
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,Exportin-1,5.8,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,Cytochrome P450 3A4,4.8,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,MCF 7.00,4.59,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,Aldehyde dehydrogenase 1A1,4.55,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,MDA-MB-231,4.52,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,Polyunsaturated fatty acid 5-lipoxygenase,4.44,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,Aldehyde dehydrogenase 1A1,4.35,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,Ferritin light chain,4.35,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Cnidium monnieri,蛇床子,She Chuang Zi,Warm,osthole,V79,4.24,10228,CC(=CCC1=C(C=CC2=C1OC(=O)C=C2)OC)C,244.29,3,40,3,0,0.42
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Prelamin-A/C,6.3,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.4,2,40,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Hypoxia-inducible factor 1-alpha,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.4,2,40,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Fructose-bisphosphate aldolase,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.4,2,40,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Cytochrome P450 2D6,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.4,2,40,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Cytochrome P450 2D6,4.9,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.4,2,40,4,0,0.65
+Coptis chinensis,黄连,Huang Lian,Cold,palmatine,Neuraminidase,4.53,19009,COC1=C(C2=C[N+]3=C(C=C2C=C1)C4=CC(=C(C=C4CC3)OC)OC)OC,352.4,2,40,4,0,0.65
+Forsythia suspensa,连翘,Lian Qiao,Slightly Cold,pinoresinol,Polyunsaturated fatty acid lipoxygenase ALOX15,5.46,73399,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C=C4)O)OC)O,358.4,2,80,6,2,0.35
+Forsythia suspensa,连翘,Lian Qiao,Slightly Cold,pinoresinol,XF498,4.88,73399,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C=C4)O)OC)O,358.4,2,80,6,2,0.35
+Forsythia suspensa,连翘,Lian Qiao,Slightly Cold,pinoresinol,Polyunsaturated fatty acid 5-lipoxygenase,4.86,73399,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C=C4)O)OC)O,358.4,2,80,6,2,0.35
+Forsythia suspensa,连翘,Lian Qiao,Slightly Cold,pinoresinol,Tyrosine-protein phosphatase non-receptor type 1,4.73,73399,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C=C4)O)OC)O,358.4,2,80,6,2,0.35
+Forsythia suspensa,连翘,Lian Qiao,Slightly Cold,pinoresinol,BV-2,4.58,73399,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C=C4)O)OC)O,358.4,2,80,6,2,0.35
+Forsythia suspensa,连翘,Lian Qiao,Slightly Cold,pinoresinol,SK-MEL-2,4.58,73399,COC1=C(C=CC(=C1)[C@@H]2[C@H]3CO[C@@H]([C@H]3CO2)C4=CC(=C(C=C4)O)OC)O,358.4,2,80,6,2,0.35
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,protocatechuic acid,NON-PROTEIN TARGET,5.59,72,C1=CC(=C(C=C1C(=O)O)O)O,154.12,0.5,77,4,3,0.1
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,protocatechuic acid,Microtubule-associated protein tau,5.55,72,C1=CC(=C(C=C1C(=O)O)O)O,154.12,0.5,77,4,3,0.1
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,protocatechuic acid,No relevant target,4.57,72,C1=CC(=C(C=C1C(=O)O)O)O,154.12,0.5,77,4,3,0.1
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,protocatechuic acid,Lysine-specific demethylase 4E,4.45,72,C1=CC(=C(C=C1C(=O)O)O)O,154.12,0.5,77,4,3,0.1
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,protocatechuic acid,3-dehydroquinate synthase,4.36,72,C1=CC(=C(C=C1C(=O)O)O)O,154.12,0.5,77,4,3,0.1
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,protocatechuic acid,3-dehydroquinate synthase,4.19,72,C1=CC(=C(C=C1C(=O)O)O)O,154.12,0.5,77,4,3,0.1
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,Nuclear factor NF-kappa-B p105 subunit,5.52,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,Cytochrome P450 2C19,5.4,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,Unchecked,4.96,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,Lethal factor,4.9,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,HL-60,4.8,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,LoVo,4.8,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,3-hydroxyacyl-CoA dehydrogenase type-2,4.5,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,Lysine-specific demethylase 4E,4.5,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,psoralen,Cytochrome P450 3A4,4.5,6199,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,186.16,2,45,3,0,0.3
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,Aldo-keto reductase family 1 member A1,5.63,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,Aldo-keto reductase family 1 member B1,5.11,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,Aldo-keto reductase family 1 member B1,5.08,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,Aldo-keto reductase family 1 member B1,4.99,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,ANN-1,4.49,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,Aldo-keto reductase family 1 member B1,4.48,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,Sorbitol dehydrogenase,4.45,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,NIH3T3,4.4,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Sophora japonica,槐花,Huai Hua,Slightly Cold,quercetin,Glutathione reductase,4.31,5280343,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,302.24,2,130,7,5,0.28
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,Aryl hydrocarbon receptor,6.77,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,Estrogen receptor,6.11,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,RAW264.7,5.4,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,HL-60,5.3,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,RAW264.7,4.8,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,MDA-MB-231,4.69,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,RAW264.7,4.68,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,HL-60,4.3,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,Mus musculus,4.17,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Polygonum cuspidatum,虎杖,Hu Zhang,Slightly Cold,resveratrol,Unchecked,4.13,445154,C1=CC(=CC=C1/C=C/C2=CC(=CC(=C2)O)O)O,228.24,2,60,3,3,0.3
+Perilla frutescens,紫苏叶,Zi Su Ye,Warm,rosmarinic acid,Tyrosine-protein kinase Fyn,5.89,5281792,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.31,0,>140,8,5,0.05
+Perilla frutescens,紫苏叶,Zi Su Ye,Warm,rosmarinic acid,Human immunodeficiency virus type 1 integrase,5.4,5281792,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.31,0,>141,8,5,0.05
+Perilla frutescens,紫苏叶,Zi Su Ye,Warm,rosmarinic acid,Human immunodeficiency virus type 1 integrase,5.05,5281792,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.31,0,>142,8,5,0.05
+Perilla frutescens,紫苏叶,Zi Su Ye,Warm,rosmarinic acid,Tyrosine-protein kinase Fyn,4.77,5281792,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.31,0,>143,8,5,0.05
+Perilla frutescens,紫苏叶,Zi Su Ye,Warm,rosmarinic acid,Tyrosine-protein kinase Lck,4.62,5281792,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.31,0,>144,8,5,0.05
+Perilla frutescens,紫苏叶,Zi Su Ye,Warm,rosmarinic acid,Tyrosine-protein kinase Fyn,4.44,5281792,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,360.31,0,>145,8,5,0.05
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,ADMET,8.52,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,ADMET,7.89,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Cytochrome P450 1A2,7.66,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Cytochrome P450 1B1,7.26,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Cytochrome P450 1A1,6.58,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Prostaglandin G/H synthase 2,6.52,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Aorta,5.98,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Aorta,5.88,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Aorta,5.76,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Evodia rutaecarpa,吴茱萸,Wu Zhu Yu,Warm,rutaecarpine,Prostaglandin G/H synthase 1,5.06,65752,C1CN2C(=NC3=CC=CC=C3C2=O)C4=C1C5=CC=CC=C5N4,287.3,3,50,3,1,0.58
+Sophora japonica,槐花,Huai Hua,Slightly Cold,rutin,Radical scavenging activity,4.91,5280805,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,610.52,0,>200,12,7,0.1
+Sophora japonica,槐花,Huai Hua,Slightly Cold,rutin,Aldo-keto reductase family 1 member B1,4.89,5280805,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,610.52,0,>201,12,7,0.1
+Sophora japonica,槐花,Huai Hua,Slightly Cold,rutin,No relevant target,4.38,5280805,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,610.52,0,>202,12,7,0.1
+Sophora japonica,槐花,Huai Hua,Slightly Cold,rutin,Xanthine dehydrogenase/oxidase,4.28,5280805,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,610.52,0,>203,12,7,0.1
+Sophora japonica,槐花,Huai Hua,Slightly Cold,rutin,Neuraminidase,4.28,5280805,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,610.52,0,>204,12,7,0.1
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,Broad substrate specificity ATP-binding cassette transporter ABCG2,4,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>150,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,Radical scavenging activity,4.57,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>151,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,Neuraminidase,4.33,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>152,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,Neuraminidase,4.3,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>153,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,Neuraminidase,4.22,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>154,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,ADMET,4.22,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>155,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,5-hydroxytryptamine receptor 7,4.2,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>156,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,ATP-binding cassette sub-family C member 2,4.12,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>157,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,ADMET,4.1,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>158,12,6,0.08
+Erigeron breviscapus,灯盏花,Deng Zhan Hua,Slightly Cold,scutellarin,UDP-glucuronosyltransferase 1A1,4.01,5281697, C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)O)O)O,286.24,0,>159,12,6,0.08
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,ATP-dependent translocase ABCB1,5.5,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,Monocyte,5.1,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,Broad substrate specificity ATP-binding cassette transporter ABCG2,5.08,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,Broad substrate specificity ATP-binding cassette transporter ABCG2,5.05,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,Monocyte,5,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,Menin/Histone-lysine N-methyltransferase MLL,4.6,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,ATP-dependent translocase ABCB1,4.54,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,Unchecked,4.47,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,3T3-L1,4.23,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,sinensetin,HT-29,4.17,145659,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)OC)OC,372.37,4,70,7,0,0.55
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,Unchecked,6,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N, ,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,Aldehyde dehydrogenase 1A1,5.85,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N,294.3,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,Menin/Histone-lysine N-methyltransferase MLL,5,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N,294.3,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,Cytochrome P450 3A4,4.9,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N,294.3,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,Broad substrate specificity ATP-binding cassette transporter ABCG2,4.72,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N,294.3,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,Monocyte,4.52,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N,294.3,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,SH-SY5Y,4.38,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N,294.3,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,3T3-L1,4.32,68077, CC1=CC(=C(C=C1)C)[C@@H]2C(=C(OC3=C2C(=O)CCC3)N)C#N,294.3,4,70,7,0,0.5
+Citrus reticulata,陈皮,Chen Pi,Warm,tangeretin,HT-29,4.11,68077,COC1=CC=C(C=C1)C2=CC(=O)C3=C(O2)C(=C(C(=C3OC)OC)OC)OC,294.3,4,70,7,0,0.5
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,Microtubule-associated protein tau,5.7,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,Streptococcus sp. 'group A',5.33,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,HepG2,5.2,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,Streptococcus,5.12,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",5.07,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,Thioredoxin glutathione reductase,5.05,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,Tyrosyl-DNA phosphodiesterase 1,4.95,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",4.9,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,ADMET,4.64,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone I,Saccharomyces cerevisiae,4.45,114917,CC1=C2C=CC3=C(C2=CC=C1)C(=O)C(=O)C4=C3OC=C4C,276.29,4,45,3,0,0.42
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",5.21,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,AGS,5.17,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,"Hypoxia inducible factors; HIF-1-alpha, HIF-2-alpha",5.12,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,AGS,5,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,Prelamin-A/C,4.85,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,RAW264.7,4.74,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,ADMET,4.64,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,3-hydroxyacyl-CoA dehydrogenase type-2,4.6,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Salvia miltiorrhiza,丹参,Dan Shen,Slightly Cold,tanshinone IIA,ATP-dependent DNA helicase Q1,4.4,164676,CC1=COC2=C1C(=O)C(=O)C3=C2C=CC4=C3CCCC4(C)C,294.34,4,45,3,0,0.4
+Smilax glabra,土茯苓,Tu Fu Ling,Neutral,taxifolin,NON-PROTEIN TARGET,5.85,439533,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1,127,7,5,0.18
+Smilax glabra,土茯苓,Tu Fu Ling,Neutral,taxifolin,Lysine-specific demethylase 4E,4.7,439533,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1,127,7,5,0.18
+Smilax glabra,土茯苓,Tu Fu Ling,Neutral,taxifolin,NON-PROTEIN TARGET,4.62,439533,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1,127,7,5,0.18
+Smilax glabra,土茯苓,Tu Fu Ling,Neutral,taxifolin,ATP-dependent DNA helicase Q1,4.55,439533,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1,127,7,5,0.18
+Smilax glabra,土茯苓,Tu Fu Ling,Neutral,taxifolin,ATP-dependent translocase ABCB1,4.43,439533,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1,127,7,5,0.18
+Smilax glabra,土茯苓,Tu Fu Ling,Neutral,taxifolin,Human immunodeficiency virus 1,4.35,439533,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1,127,7,5,0.18
+Smilax glabra,土茯苓,Tu Fu Ling,Neutral,taxifolin,Human immunodeficiency virus 1,4.35,439533,C1=CC(=C(C=C1[C@@H]2[C@H](C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,304.25,1,127,7,5,0.18
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,Tissue factor,7.64,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(1A) dopamine receptor,6.91,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(1A) dopamine receptor,6.82,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(1A) dopamine receptor,6.64,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(1B) dopamine receptor,6.52,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(2) dopamine receptor,6.35,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(2) dopamine receptor,5.95,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(3) dopamine receptor,5.86,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,D(1A) dopamine receptor,5.79,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Corydalis yanhusuo,延胡索,Yan Hu Suo,warm,tetrahydropalmatine,Plasmodium falciparum,4.49,10206,COC1=C(C2=C(C[C@H]3C4=CC(=C(C=C4CCN3C2)OC)OC)C=C1)OC,355.43,2,47,4,0,0.7
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,RAW264.7,5.97,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,Prostaglandin G/H synthase 2,5.97,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,GABA-A receptor; anion channel,5.69,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,"Nitric oxide synthase, inducible",5.11,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,SW480,4.46,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,SW1353,4.41,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,HT-29,4.4,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Scutellaria baicalensis,黄芩,Huang Qin,Cold,wogonin,Prostaglandin G/H synthase 2,4.34,69482,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,284.267,2.8798,79.9,5,2,0.3
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,HL-60,6.12,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,HT-1080,5.82,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,HT-1080,5.68,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,A-431,5.61,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,HeLa,5.5,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,HL-60,5.27,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,HT-1080,5.11,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,HeLa,5,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+Psoralea corylifolia,补骨脂,Bu Gu Zhi,Warm,xanthotoxin,Panel leukemia (Carcinoma cell lines),4,4114,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,216.19,2,50,4,0,0.34
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
